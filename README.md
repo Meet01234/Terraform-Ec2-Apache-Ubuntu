@@ -1,5 +1,6 @@
-
 # 🚀 Terraform Project: Launch 2 Ubuntu EC2 Instances with Apache in AWS
+
+![Screenshot](Ec2.png)
 
 This Terraform project launches **two Ubuntu EC2 instances** in the **ap-south-1 (Mumbai)** AWS region with:
 - Apache installed via `user_data`
