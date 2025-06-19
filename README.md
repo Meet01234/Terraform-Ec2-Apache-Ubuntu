@@ -202,5 +202,5 @@ terraform destroy -auto-approve
 
 Do **NOT** expose your access keys in production. Use environment variables or AWS profiles instead.
 
-![Output Screenshot](T.png)
+![Output Screenshot](Terraform.png)
 
